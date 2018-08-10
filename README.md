@@ -1,4 +1,4 @@
-# λ# Find and fix security problems automatically with CloudTrail and Lambda - September 2017 Team Hackathon Challenge 
+# λ# Find and fix security problems automatically with CloudTrail and Lambda
 
 > AWS CloudTrail Event History is now available to all customers. CloudTrail Event History (formerly known as API Activity History) lets you view, search, and download your recent AWS account activity. This allows you to gain visibility into your account actions taken through the AWS Management Console, SDKs, and CLI to enable governance, compliance, and operational and risk auditing of your AWS account.
 
